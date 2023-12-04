@@ -7,7 +7,7 @@ import java.io.IOException;
 public class filehandling {
 
     public static void main(String[] args) {
-        String filePath = "C:\\Users\\Admin\\Desktop\\Java_Project\\File_Handling\\filehandling.txt";
+        String filePath = "C:\\Users\\Admin\\Desktop\\Java_Project\\Phase-1\\File_handling\\filehandling\\filehandling.txt";
 
         // Write to a file
         writeToFile(filePath, "Hello, this is a example text for Write function.");
