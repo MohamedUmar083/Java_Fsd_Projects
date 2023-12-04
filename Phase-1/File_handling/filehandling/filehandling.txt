@@ -1,0 +1,2 @@
+Hello, this is a example text for Write function.
+Hello, this is a example text for Append function.
